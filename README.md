@@ -52,7 +52,7 @@ Git · AWS EC2 · Vercel · Jest · Supertest · TanStack Query
 
 ## Connect
 
-[Portfolio](ranggapramudya.site) · [LinkedIn](https://linkedin.com/in/rangga-pramudya-034640290)
+[Portfolio](https://ranggapramudya.site) · [LinkedIn](https://linkedin.com/in/rangga-pramudya-034640290)
 
 <br />
 
