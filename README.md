@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rangga 👋
 
-<!--
-**RanggaPramudya19/RanggaPramudya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building modern web and mobile applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- React Native
+- Node.js
+- Express
+- NestJS
+- PostgreSQL
+- MongoDB
+- GraphQL
+
+## Featured Projects
+
+### VitaFlux
+Mobile blood donation platform connecting donors and healthcare facilities.
+
+### Iron Path
+Full-stack e-commerce application built with Next.js and TypeScript.
+
+
+## Connect
+
+- Portfolio: https://ranggapramudya.site
+- LinkedIn: www.linkedin.com/in/rangga-pramudya-034640290
+- Email: ranggapramudya2005@gmail.com
